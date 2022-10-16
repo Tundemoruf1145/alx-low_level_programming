@@ -2,10 +2,9 @@
 #include <unistd.h>
 
 /**
- **main - Entry point
+ **main-program entry point
  *
  **description: 'to display a string using write mode'
- *
  **returns: 1 on success
  **/
 
