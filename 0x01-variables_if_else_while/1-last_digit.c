@@ -3,14 +3,12 @@
 #include <stdio.h>
 
 /**
- * main - This program will assign a random 
- *        number to the variable n
+ * main-This program will assign a random 
+   number to the variable n
  *
  * description: print the last digit of the number
- *
  * returns: Always 0 success
 */
-
 int main(void)
 {
 	int n;
@@ -35,5 +33,4 @@ int main(void)
 	}
 
 	return (0);
-
 }
