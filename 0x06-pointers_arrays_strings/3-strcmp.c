@@ -1,4 +1,5 @@
 #include "mainn.h"
+#include <stdio.h>
 
 /**
  * _strcmp - Compares two strings
